@@ -1,0 +1,24 @@
+<svg id="Grupa_1" data-name="Grupa 1" xmlns="http://www.w3.org/2000/svg" width="28" height="26" viewBox="0 0 28 26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3a3c55;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #83859a;
+      }
+
+      .cls-3 {
+        fill: #e10b2f;
+      }
+    </style>
+  </defs>
+  <path id="Rounded_Rectangle_4" data-name="Rounded Rectangle 4" class="cls-1" d="M1560.07,62h21.86a3,3,0,1,1,0,6h-21.86A3,3,0,1,1,1560.07,62Z" transform="translate(-1557 -62)"/>
+  <path id="Rounded_Rectangle_4_copy" data-name="Rounded Rectangle 4 copy" class="cls-2" d="M1560.07,72h21.86a3,3,0,1,1,0,6h-21.86A3,3,0,1,1,1560.07,72Z" transform="translate(-1557 -62)"/>
+  <path id="Rounded_Rectangle_4_copy_2" data-name="Rounded Rectangle 4 copy 2" class="cls-3" d="M1560.07,82h21.86a3,3,0,1,1,0,6h-21.86A3,3,0,1,1,1560.07,82Z" transform="translate(-1557 -62)"/>
+</svg>
